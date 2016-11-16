@@ -1,0 +1,16 @@
+.card_class {
+    margin-top: 120px;
+    margin-bottom: 20px;
+    margin-left: 0px
+}
+.card_content_class{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+p{
+    font-size: 8px;
+}
+.Subtitle{
+    background-color: red;
+}
+
